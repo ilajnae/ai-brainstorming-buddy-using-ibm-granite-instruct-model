@@ -1,0 +1,11 @@
+faiss-cpu
+streamlit
+python-dotenv
+ibm-watsonx-ai
+langchain-core
+langgraph
+pypdf
+PyPDF2
+langchain
+sentence-transformers
+langchain-community
